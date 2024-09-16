@@ -111,5 +111,3 @@ This project can be extended to:
 ![Image 16-09-2024 20_25_28](https://github.com/user-attachments/assets/c3d23cbe-8dcb-4442-98d7-b96501cd6cbd)
 ![Image 16-09-2024 20_25_33](https://github.com/user-attachments/assets/6515b62b-62e3-4fe3-840c-38a04426010e)
 ![Image 16-09-2024 20_25_37](https://github.com/user-attachments/assets/ccbee4e6-7c45-48cf-8d26-99698a4264cc)
-https://github.com/user-attachments/assets/82709dca-5f5a-4201-bc0c-8afb1dc29695
-
