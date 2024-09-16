@@ -100,5 +100,5 @@ This project can be extended to:
 - **Sign Language Interpretation**: Build tools that recognize and interpret hand gestures in sign language.
 - **Virtual Interaction**: Develop applications that enable interaction with virtual environments using hand gestures.
 ## References
-OpenCV Documentation
-MediaPipe Hands Documentation
+- OpenCV Documentation
+- MediaPipe Hands Documentation
